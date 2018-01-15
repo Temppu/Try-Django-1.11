@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # We are on the develop branch
 
 # Application definition
+# Added new feature
 
 INSTALLED_APPS = [
     'django.contrib.admin',

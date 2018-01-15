@@ -28,6 +28,8 @@ DEBUG = False
 ALLOWED_HOSTS = []
 
 
+# We are on the develop branch
+
 # Application definition
 
 INSTALLED_APPS = [
